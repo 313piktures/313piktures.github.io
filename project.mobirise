@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "313piktures",
-    "currentPage": "contactus.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -58,7 +58,7 @@
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": true
           },
           "title": "Website Under Construction.<br><br>313 Piktures<br><br>",
