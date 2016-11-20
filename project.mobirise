@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "313piktures",
-    "currentPage": "index.html",
+    "currentPage": "bollywood-dreams.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 86,
+    "uniqCompNum": 91,
     "versionPublish": "3.9.0",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x77-71.png",
     "noImageResize": "",
@@ -144,13 +144,26 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://313Piktures.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;313 Piktures</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filmmaking.html\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"filmmaking.html\">Film Making</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"storyboarding.html\">Storyboarding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animatics.html\">Animatics</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vfx.html\">Vfx &amp; Editing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Storyteller</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article1.html\">Bollywood Calling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article2.html\">Article 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article3.html\">Article 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filmmaking.html\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"filmmaking.html\">Film Making</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"storyboarding.html\">Storyboarding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animatics.html\">Animatics</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vfx.html\">Vfx &amp; Editing</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Storyteller</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bollywood-calling.html\">Bollywood Calling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article2.html\">Bollywood Dreams</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article3.html\">Article 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2i",
+          "title": "<p>New Article - &nbsp;&nbsp;<a href=\"bollywood-dreams.html\">Bollywood Dreams</a></p>",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;By Ferose War posted Nov 20, 2016</p>"
         }
       ]
     },
     "Gallery.html": {
       "settings": {
-        "title": "Sample Work..."
+        "title": "313 piktures, 313 pictures, 313",
+        "meta_descr": "313 piktures, 313 pictures, 313, production house, film making, story boarding, animatics, vfx, editing"
       },
       "components": [
         {
@@ -323,230 +336,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://313Piktures.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;313 Piktures</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filmmaking.html\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"filmmaking.html\">Film Making</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"storyboarding.html\">Storyboarding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animatics.html\">Animatics</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vfx.html\">Vfx &amp; Editing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Storyteller</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article1.html\">Bollywood Calling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article2.html\">Article 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article3.html\">Article 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        }
-      ]
-    },
-    "article1.html": {
-      "settings": {
-        "title": "Articles",
-        "meta_descr": ""
-      },
-      "components": [
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-d",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-2000x297-93.jpg",
-            "bgColor": "#28324e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#28324e"
-          },
-          "text": "Copyright (c) 2016 313 Piktures. &nbsp; &nbsp;<a class=\"mbr-footer__link text-gray\" href=\"index.html\">Terms of Use</a>  | Privacy Policy"
-        },
-        {
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {
-              "font-size": "30px",
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
-            },
-            ".nav .link, .dropdown-item": {
-              "font-size": "1.2em",
-              "color": "#acacac",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-family": "'Montserrat', sans-serif"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#28324e"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#212941"
-            },
-            ".navbar-toggler": {
-              "color": "#acacac"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-e",
-          "_params": {
-            "bgColor": "#28324e",
-            "fontSize": "1.2",
-            "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
-            },
-            "fontColor": "#acacac",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-210x128-47.png",
-              "class": "",
-              "height": 128,
-              "alt": "313 pictures",
-              "link": "index.html",
-              "title": "Goto Home",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://313Piktures.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;313 Piktures</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filmmaking.html\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"filmmaking.html\">Film Making</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"storyboarding.html\">Storyboarding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animatics.html\">Animatics</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vfx.html\">Vfx &amp; Editing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Storyteller</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article1.html\">Bollywood Calling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article2.html\">Article 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article3.html\">Article 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1y",
-          "title": "Bollywood Calling",
-          "_params": {
-            "showMeta": true
-          },
-          "meta": "Follow the crowd or Stand out "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-1z",
-          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Before gaining iconic status, Shah Rukh Khan used\nto have a small time shop in Delhi, Akshay Kumar was\na cook in Bangkok and Vidya Balan featured in small ads.\nThese are the examples that inspire thousands of aspiring actors\nwho throng to Mumbai in pursuit of money and fame in Bollywood.\nIn reality, it's only five percent of those who see their dreams reaching the\nlevel  they  set  for  themselves.  Yet,  braving  all  odds majority of the pack, \nlabelled  as  \"strugglers\"  in  Bollywood  parlance,  continues to dream of becoming \nthe next Amitabh Bachchan or SRK. </p><p>                                                                           \n\n</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\"Good actor always finds work for himself,\" Misra said in an interview to the Times of India.\nAn  advise  200 aspiring actors, who register themselves with the Cine and Television Artistes' \nAssociation  every  month, do not pay heed to believing that meeting people at film parties and \ngoing  to  gym  to  smarten  up  their appearances only will get them work.\"It's the HOPE that \ndoesn't let a struggler give up. He laps up rare examples of SRK and Big B and says to himself \nthat  he  too  will become like them someday,\"When an aspiring actor comes to Mumbai he goes \nfrom one production house to another looking for jobs. He then, on advice of those in the know \nof things, enrolls himself into an acting institute. It's only then does it gradually dawns on him \nwhat the industry is all about.</p><p>                                                                                                   \n\n</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Even  after  completing  the  acting  training  his  struggle continues. Post the acting course his \nstruggle  picks  up  momentum.  He  learns  about  an  ongoing  casting for a film or TV project. \nHe  goes  to  the  production  house  and  takes  the  audition  (test)  to  land a role for himself. \nThereafter,  all  depends  on his talent and luck if he bags the project.Generally, most aspirants \ndo  not  get  to  meet  the director. Therefore, a struggler meets the casting guy who assures him \nthat  he  decides  who is taken in by the director. But a source says that the casting people only \nselect  for  smaller roles. The roles for the main hero and heroine are left on the captain of ship - \nthe  film's  director - and without his nod the casting guy cannot take anybody, in films. At the \nmost  the  casting  guy  recommend  can  recommends  actors  for  small  roles  and  the  ratio of \nstruggler against successful actors is a dismal 100:2.</p><p>                                                                  \n\n</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;According to an estimate, each day, there are around 2000 aspiring actors coming in to Mumbai.\nMoreover,  even  if  one  is  called  to  audition  for  a  role,  there  are  50  options for one role, \nnarrowing the chances of landing the job. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p><br></p><h4>Originally Posted by Vasundhara Sanger titled &nbsp;\"Strugglers of Bollywood\"</h4><h4>TIMESOFINDIA.COM | \nSep 18, 2008, 01.41 PM IST</h4><pre>http://timesofindia.indiatimes.com/city/mumbai/Strugglers-of-Bollywood/articleshow/3498540.cms</pre><p><br></p><p>So, here we are to help you reach your goals... through alternatives. Don't be shy, fill up the form in \"contact us\" page. It's always free.</p><p><br></p>",
-          "_styles": {
-            "P": {
-              "color": "#475577"
-            }
-          }
-        }
-      ]
-    },
-    "article2.html": {
-      "settings": {
-        "title": "Articles",
-        "meta_descr": ""
-      },
-      "components": [
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-n",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-2000x297-93.jpg",
-            "bgColor": "#28324e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#28324e"
-          },
-          "text": "Copyright (c) 2016 313 Piktures. &nbsp; &nbsp;<a class=\"mbr-footer__link text-gray\" href=\"index.html\">Terms of Use</a>  | Privacy Policy"
-        },
-        {
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {
-              "font-size": "30px",
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
-            },
-            ".nav .link, .dropdown-item": {
-              "font-size": "1.2em",
-              "color": "#acacac",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-family": "'Montserrat', sans-serif"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#28324e"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#212941"
-            },
-            ".navbar-toggler": {
-              "color": "#acacac"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-o",
-          "_params": {
-            "bgColor": "#28324e",
-            "fontSize": "1.2",
-            "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
-            },
-            "fontColor": "#acacac",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-210x128-47.png",
-              "class": "",
-              "height": 128,
-              "alt": "313 pictures",
-              "link": "index.html",
-              "title": "Goto Home",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://313Piktures.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;313 Piktures</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filmmaking.html\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"filmmaking.html\">Film Making</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"storyboarding.html\">Storyboarding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animatics.html\">Animatics</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vfx.html\">Vfx &amp; Editing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Storyteller</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article1.html\">Bollywood Calling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article2.html\">Article 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article3.html\">Article 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-p",
-          "title": "Site Under Construction",
-          "_params": {
-            "showMeta": true
-          },
-          "meta": "By xxx xxx posted July xx, 20xx"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-q",
-          "text": "<p>website is under construction.. All contents as only templates and not the real contents itself. for any queries kindly fill the form on \"Contact Us\" page and we will get back to you ASAP. Sorry for inconvience caused.</p><p>website is under construction.. All contents as only templates and not the real contents itself. for any queries kindly fill the form on \"Contact Us\" page and we will get back to you ASAP. Sorry for inconvience caused.</p><p>website is under construction.. All contents as only templates and not the real contents itself. for any queries kindly fill the form on \"Contact Us\" page and we will get back to you ASAP. Sorry for inconvience caused.</p><p>website is under construction.. All contents as only templates and not the real contents itself. for any queries kindly fill the form on \"Contact Us\" page and we will get back to you ASAP. Sorry for inconvience caused.</p><p>website is under construction.. All contents as only templates and not the real contents itself. for any queries kindly fill the form on \"Contact Us\" page and we will get back to you ASAP. Sorry for inconvience caused.</p>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filmmaking.html\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"filmmaking.html\">Film Making</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"storyboarding.html\">Storyboarding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animatics.html\">Animatics</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vfx.html\">Vfx &amp; Editing</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Storyteller</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bollywood-calling.html\">Bollywood Calling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article2.html\">Bollywood Dreams</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article3.html\">Article 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -635,7 +425,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://313Piktures.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;313 Piktures</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filmmaking.html\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"filmmaking.html\">Film Making</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"storyboarding.html\">Storyboarding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animatics.html\">Animatics</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vfx.html\">Vfx &amp; Editing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Storyteller</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article1.html\">Bollywood Calling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article2.html\">Article 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article3.html\">Article 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filmmaking.html\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"filmmaking.html\">Film Making</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"storyboarding.html\">Storyboarding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animatics.html\">Animatics</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vfx.html\">Vfx &amp; Editing</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Storyteller</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bollywood-calling.html\">Bollywood Calling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article2.html\">Bollywood Dreams</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article3.html\">Article 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -741,7 +531,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://313Piktures.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;313 Piktures</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filmmaking.html\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"filmmaking.html\">Film Making</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"storyboarding.html\">Storyboarding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animatics.html\">Animatics</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vfx.html\">Vfx &amp; Editing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Storyteller</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article1.html\">Bollywood Calling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article2.html\">Article 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article3.html\">Article 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filmmaking.html\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"filmmaking.html\">Film Making</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"storyboarding.html\">Storyboarding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animatics.html\">Animatics</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vfx.html\">Vfx &amp; Editing</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Storyteller</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bollywood-calling.html\">Bollywood Calling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article2.html\">Bollywood Dreams</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article3.html\">Article 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -842,7 +632,10 @@
       ]
     },
     "storyboarding.html": {
-      "settings": {},
+      "settings": {
+        "title": "Storyboarding, ",
+        "meta_descr": "313 piktures, 313 pictures, 313, production house, film making, story boarding, animatics, vfx, editing"
+      },
       "components": [
         {
           "_tags": [
@@ -923,7 +716,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://313Piktures.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;313 Piktures</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filmmaking.html\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"filmmaking.html\">Film Making</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"storyboarding.html\">Storyboarding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animatics.html\">Animatics</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vfx.html\">Vfx &amp; Editing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Storyteller</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article1.html\">Bollywood Calling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article2.html\">Article 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article3.html\">Article 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filmmaking.html\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"filmmaking.html\">Film Making</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"storyboarding.html\">Storyboarding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animatics.html\">Animatics</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vfx.html\">Vfx &amp; Editing</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Storyteller</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bollywood-calling.html\">Bollywood Calling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article2.html\">Bollywood Dreams</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article3.html\">Article 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "slider",
@@ -974,7 +767,10 @@
       ]
     },
     "Animatics.html": {
-      "settings": {},
+      "settings": {
+        "meta_descr": "313 piktures, 313 pictures, 313, production house, film making, story boarding, animatics, vfx, editing",
+        "title": "Animatics"
+      },
       "components": [
         {
           "_tags": [
@@ -1055,7 +851,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://313Piktures.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;313 Piktures</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filmmaking.html\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"filmmaking.html\">Film Making</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"storyboarding.html\">Storyboarding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animatics.html\">Animatics</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vfx.html\">Vfx &amp; Editing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Storyteller</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article1.html\">Bollywood Calling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article2.html\">Article 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article3.html\">Article 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filmmaking.html\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"filmmaking.html\">Film Making</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"storyboarding.html\">Storyboarding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animatics.html\">Animatics</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vfx.html\">Vfx &amp; Editing</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Storyteller</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bollywood-calling.html\">Bollywood Calling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article2.html\">Bollywood Dreams</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article3.html\">Article 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {},
@@ -1086,7 +882,10 @@
       ]
     },
     "vfx.html": {
-      "settings": {},
+      "settings": {
+        "title": "vfx",
+        "meta_descr": "313 piktures, 313 pictures, 313, production house, film making, story boarding, animatics, vfx, editing"
+      },
       "components": [
         {
           "_tags": [
@@ -1167,7 +966,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://313Piktures.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;313 Piktures</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filmmaking.html\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"filmmaking.html\">Film Making</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"storyboarding.html\">Storyboarding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animatics.html\">Animatics</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vfx.html\">Vfx &amp; Editing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Storyteller</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article1.html\">Bollywood Calling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article2.html\">Article 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article3.html\">Article 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filmmaking.html\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"filmmaking.html\">Film Making</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"storyboarding.html\">Storyboarding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animatics.html\">Animatics</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vfx.html\">Vfx &amp; Editing</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Storyteller</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bollywood-calling.html\">Bollywood Calling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article2.html\">Bollywood Dreams</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article3.html\">Article 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "slider",
@@ -1290,7 +1089,10 @@
       ]
     },
     "filmmaking.html": {
-      "settings": {},
+      "settings": {
+        "title": "Film Making",
+        "meta_descr": "313 piktures, 313 pictures, 313, production house, film making, story boarding, animatics, vfx, editing"
+      },
       "components": [
         {
           "_tags": [
@@ -1371,7 +1173,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://313Piktures.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;313 Piktures</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filmmaking.html\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"filmmaking.html\">Film Making</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"storyboarding.html\">Storyboarding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animatics.html\">Animatics</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vfx.html\">Vfx &amp; Editing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Storyteller</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article1.html\">Bollywood Calling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article2.html\">Article 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article3.html\">Article 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filmmaking.html\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"filmmaking.html\">Film Making</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"storyboarding.html\">Storyboarding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animatics.html\">Animatics</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vfx.html\">Vfx &amp; Editing</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Storyteller</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bollywood-calling.html\">Bollywood Calling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article2.html\">Bollywood Dreams</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article3.html\">Article 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1440,6 +1242,273 @@
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Here to help Budget producers and Production Houses to make A class movies on small scale budget.</p><p><br></p><p>Give it a try to know it for yourself</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>NOTE: SITE STILL UNDER CONSTRUCTION</p><p><br></p><p><br></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"filmmaking.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        }
+      ]
+    },
+    "bollywood-calling.html": {
+      "settings": {
+        "title": "Articles, BOLLYWOOD CALLING, 313 pictures",
+        "meta_descr": "Strugglers, artists, guide for artists, tutorials"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-d",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-2000x297-93.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#28324e"
+          },
+          "text": "Copyright (c) 2016 313 Piktures. &nbsp; &nbsp;<a class=\"mbr-footer__link text-gray\" href=\"index.html\">Terms of Use</a>  | Privacy Policy"
+        },
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "30px",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#acacac",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#28324e"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#212941"
+            },
+            ".navbar-toggler": {
+              "color": "#acacac"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-e",
+          "_params": {
+            "bgColor": "#28324e",
+            "fontSize": "1.2",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#acacac",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-210x128-12.png",
+              "class": "",
+              "height": 128,
+              "alt": "313 pictures",
+              "link": "index.html",
+              "title": "Goto Home",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://313Piktures.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;313 Piktures</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filmmaking.html\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"filmmaking.html\">Film Making</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"storyboarding.html\">Storyboarding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animatics.html\">Animatics</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vfx.html\">Vfx &amp; Editing</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Storyteller</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bollywood-calling.html\">Bollywood Calling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article2.html\">Bollywood Dreams</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article3.html\">Article 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1y",
+          "title": "Bollywood Calling",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "Follow the crowd or Stand out "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#5a6032"
+            },
+            "H3": {
+              "color": "#062374"
+            }
+          },
+          "_anchor": "content1-1z",
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Before gaining iconic status, Shah Rukh Khan used\nto have a small time shop in Delhi, Akshay Kumar was\na cook in Bangkok and Vidya Balan featured in small ads.\nThese are the examples that inspire thousands of aspiring actors\nwho throng to Mumbai in pursuit of money and fame in Bollywood.\nIn reality, it's only five percent of those who see their dreams reaching the\nlevel  they  set  for  themselves.  Yet,  braving  all  odds majority of the pack, \nlabelled  as  \"strugglers\"  in  Bollywood  parlance,  continues to dream of becoming \nthe next Amitabh Bachchan or SRK. </p><p>                                                                           \n\n</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\"Good actor always finds work for himself,\" Misra said in an interview to the Times of India.\nAn  advise  200 aspiring actors, who register themselves with the Cine and Television Artistes' \nAssociation  every  month, do not pay heed to believing that meeting people at film parties and \ngoing  to  gym  to  smarten  up  their appearances only will get them work.\"It's the HOPE that \ndoesn't let a struggler give up. He laps up rare examples of SRK and Big B and says to himself \nthat  he  too  will become like them someday,\"When an aspiring actor comes to Mumbai he goes \nfrom one production house to another looking for jobs. He then, on advice of those in the know \nof things, enrolls himself into an acting institute. It's only then does it gradually dawns on him \nwhat the industry is all about.</p><p>                                                                                                   \n\n</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Even  after  completing  the  acting  training  his  struggle continues. Post the acting course his \nstruggle  picks  up  momentum.  He  learns  about  an  ongoing  casting for a film or TV project. \nHe  goes  to  the  production  house  and  takes  the  audition  (test)  to  land a role for himself. \nThereafter,  all  depends  on his talent and luck if he bags the project.Generally, most aspirants \ndo  not  get  to  meet  the director. Therefore, a struggler meets the casting guy who assures him \nthat  he  decides  who is taken in by the director. But a source says that the casting people only \nselect  for  smaller roles. The roles for the main hero and heroine are left on the captain of ship - \nthe  film's  director - and without his nod the casting guy cannot take anybody, in films. At the \nmost  the  casting  guy  recommend  can  recommends  actors  for  small  roles  and  the  ratio of \nstruggler against successful actors is a dismal 100:2.</p><p>                                                                  \n\n</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;According to an estimate, each day, there are around 2000 aspiring actors coming in to Mumbai.\nMoreover,  even  if  one  is  called  to  audition  for  a  role,  there  are  50  options for one role, \nnarrowing the chances of landing the job. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p><br></p><blockquote><p>Originally posted in 2008. On times of India</p><p>http://timesofindia.indiatimes.com/city/mumbai/Strugglers-of-Bollywood/articleshow/3498540.cms</p></blockquote><p><br></p><h3>So, here we are to help you reach your goals... . Don't be shy, fill up the form in \"contact us\" page. It's always free - Limited Availability</h3><p><br></p>"
+        }
+      ]
+    },
+    "bollywood-dreams.html": {
+      "settings": {
+        "title": "Bollywood Dreams",
+        "meta_descr": "How to be a big star? How Bollywood dreams come true?"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-n",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-2000x297-93.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#28324e"
+          },
+          "text": "Copyright (c) 2016 313 Piktures. &nbsp; &nbsp;<a class=\"mbr-footer__link text-gray\" href=\"index.html\">Terms of Use</a>  | Privacy Policy"
+        },
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "30px",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#acacac",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#28324e"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#212941"
+            },
+            ".navbar-toggler": {
+              "color": "#acacac"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-o",
+          "_params": {
+            "bgColor": "#28324e",
+            "fontSize": "1.2",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#acacac",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-210x128-47.png",
+              "class": "",
+              "height": 128,
+              "alt": "313 pictures",
+              "link": "index.html",
+              "title": "Goto Home",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://313Piktures.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;313 Piktures</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filmmaking.html\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"filmmaking.html\">Film Making</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"storyboarding.html\">Storyboarding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animatics.html\">Animatics</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vfx.html\">Vfx &amp; Editing</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Storyteller</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bollywood-calling.html\">Bollywood Calling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article2.html\">Bollywood Dreams</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"article3.html\">Article 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "color": "#181818"
+            }
+          },
+          "_anchor": "header3-p",
+          "title": "Bollywood Dreams",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "<b>Follow &nbsp; &nbsp;the &nbsp; &nbsp;Crowd &nbsp; &nbsp; Or &nbsp; &nbsp;Stand &nbsp; &nbsp;Out.<br></b><br>By Ferose War posted Nov 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#0c1371"
+            },
+            "UL": {
+              "color": "#7c1e1c"
+            },
+            "H4": {
+              "text-align": "right"
+            }
+          },
+          "_anchor": "content1-q",
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Competition really is real tough,\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Real tough than you can think of</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hurry up, lots more are in line&nbsp;<br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lots &amp; lots more wasted in wine...</p><p><br></p><p>Are you serious for your career in entertainment industry? Do you want to be the Next-Big Star? </p><p>well, of course you do.<br></p><p>But first ask some basic questions to self:</p><ul><li>Have I got what it takes to be what I want to be?</li><li>What is my planning &amp; strategy? </li><li>Do I know how to be what I want to be?</li><li>Based on the time I spend chasing my bollywood dream, where will I be in next, say 5 years? </li><li>I should be honest with myself. Am I being honest with myself? I can't live in false dreams when everday new people keep rushing to bollywood with their own bollywood dreams. What am I doing so that I won't be left behind?</li></ul><p><br></p><p>However, we can't deny that around 90% of people chasing this Bollywood dream never reach it. Not that they dont have talent, they do of course.&nbsp;</p><p>It might sound scary, but it's not. It's a force to push you to your dreams. Don't let this force deminish in false fame.</p><p><br></p><p>I used the word - False fame. \"I am successful, I have done this n that things in bollywood, I am a star bla bla bla...\". Well, if you are a star, why are you giving your introduction? why you putting down your profile in front of everybody? You clearly know that you are forcing yourself on people to accept you as a celebrity. If you are a celebrity, you don't need to give your introduction. People will know it without your need to tell them. Such I call as False fame.</p><p><br></p><p>False fame keeps you stuck in past but the future is ahead of you. Call yourself a Star/Celebrity when you reach the place where you always want to be at. No less No more&nbsp;<br></p><p><br></p><p>Till you reach your goals, you of course need to appreciate yourself and your hardwork. But for your own self and never for the people. Beacuse when you try to prove your worth to other people, then you surely know you are lying to yourself, just to make your ownself happy.</p><p><br></p><p>You don't need other's appreciation to make youself happy. True Happiness come from within.</p><p><br></p><p>Or you have got what it takes to be a Star but you just need a chance?&nbsp;</p><p><br></p><p>Well, chance... So its what you depend on? &nbsp;Chance... waiting for your chance... waiting since how long? How are you sure it will come by? What if you don't get your chance? Is it the excuse that you will be giving yourself tomorrow for not reaching your goals? chance... &nbsp;waiting... longing... Its all excuses, unless you accept what you get and be happy with what you are and keep the false fame way away from your doors.</p><p><br></p><p><b>To Be Continueed...</b></p><p><br></p><p>The Question - How to be a celebrity, remains unanswered. As of now I want you to ask yourself the questions that are in this article, think about it &amp; write to me in \"Contact Us\" in case you get my point.</p><p>And wait for my next Article to cover this Up...</p><p><br></p><p><br></p><p>PS: Those who have any objections with this Artice. well, I am not forcing anyone to read it or to agree with me</p><p><br></p><p><br></p><h4><br></h4><h4>Copyright© Ferose War &nbsp;2016. All rights reserved</h4>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-2g",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "Share this Article"
         }
       ]
     }
