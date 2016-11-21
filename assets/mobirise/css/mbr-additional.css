@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 
 
 #header1-4 P {
@@ -250,6 +251,7 @@
 }
 
 
+
 #dropdown-menu-e .hide-buttons [data-button] {
   display: none !important;
 }
@@ -279,7 +281,9 @@
   color: #5a6032;
 }
 #content1-1z H3 {
-  color: #062374;
+  color: #28324e;
+  font-family: 'Lora', serif;
+  font-size: 16px;
 }
 
 
@@ -319,4 +323,43 @@
 }
 #content1-2m H4 {
   text-align: right;
+}
+
+
+#dropdown-menu-2p .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2p .navbar-brand a {
+  font-size: 30px;
+  font-family: 'Merriweather', serif;
+}
+#dropdown-menu-2p .nav .link,
+#dropdown-menu-2p .dropdown-item {
+  font-size: 1.2em;
+  color: #acacac;
+  font-family: 'Montserrat', sans-serif;
+}
+#dropdown-menu-2p .navbar,
+#dropdown-menu-2p .dropdown-menu {
+  background: #28324e;
+}
+#dropdown-menu-2p .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2p .dropdown-menu a:hover,
+#dropdown-menu-2p .dropdown-menu a:focus {
+  background: #212941;
+}
+#dropdown-menu-2p .navbar-toggler {
+  color: #acacac;
+}
+#msg-box4-2q .mbr-header__text {
+  color: #a38f84;
+}
+#msg-box4-2q .mbr-header__subtext {
+  color: #7c706b;
+}
+#msg-box4-2q .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-2q .mbr-article P {
+  color: #797979;
 }
